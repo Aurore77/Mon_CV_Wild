@@ -1,11 +1,17 @@
 # Mon_CV_Wild
 
-Ce repository est un CV web réalisé durant ma formation à la Wild Code School.
+This Repository is a  web  CV created at the beginning of my learning at the WCS.
 
-Vous y trouverez mon CV en page Web présentant mon parcours répondant aux consignes suivantes : 
+You will fidn here my first CV as a web page presenting my work experiences.
 
-Tu commenceras par créer un repository puclic sur ton compte github dans lequel tu réaliseras le challenge et tu l'appelleras avec beaucoup d'originalité: "Mon_CV_Wild".
+My CV is meant to answer to the instruction below:
 
-Ensuite, tu construiras la structure de ta page index.html en respectant le schéma ci-joint. Tes régles CSS seront écrites dans une feuille de style nommée stylesheet.css. Si tu le souhaites tu peux déjà remplir ton CV avec tes informations personnelles.
+- You will start by creating a public repository, on your Github account, in which you will accomplish the quest and call it with a lot of originality 'mon_cv_Wild' ('my_wild_cv').
 
-Pour poster ta solution copie le lien de ton repository github.
+- Then you will build your page structure in an index.html according to the attached schema (not here). 
+
+- Your CSS rules will be written on a stylesheet called stylesheet.css.
+
+- If you wish you can fill your CV with your real personnal information.
+
+- To post your solution copy the link of your Github Repo.
